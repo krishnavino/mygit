@@ -29,3 +29,4 @@ sl-cron-2.mavenhut.com
 sl-boffice1.mavenhut.com
 sl-rabbitmq-1.mavenhut.com
 sl-rabbitmq-2.mavenhut.com
+krishnavino.com
